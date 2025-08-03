@@ -1,16 +1,40 @@
-## Hi there 👋
+<!-- README.md — минималистичный шаблон профиля -->
 
-<!--
-**RSYur/RSYur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Привет!
 
-Here are some ideas to get you started:
+Добро пожаловать в мой уголок GitHub—здесь я выкладываю проекты по ИИ для медицины: от классификации рентгена до NLP клинических заметок.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Стек технологий  
+
+- **Python** (pandas, NumPy, SciPy)  
+- PyTorch · TensorFlow · scikit-learn  
+- OpenCV · MONAI (медицинские изображения)  
+- FastAPI · Streamlit  
+- Docker · Git · DVC · MLflow  
+- PostgreSQL  
+- AWS · GCP  
+
+---
+
+## 🌟 Флагманские репозитории
+
+| Репозиторий | Одним предложением |
+|-------------|--------------------|
+| [`med-cv-diagnosis`](https://github.com/your-username/med-cv-diagnosis) | Классификация рентген/КТ-снимков |
+| [`retinal-segmentation`](https://github.com/your-username/retinal-segmentation) | Сегментация сосудов глазного дна |
+| [`fhir-data-pipeline`](https://github.com/your-username/fhir-data-pipeline) | ETL-конвейер FHIR → Parquet |
+| [`clinical-notes-nlp`](https://github.com/your-username/clinical-notes-nlp) | Извлечение диагнозов из историй болезни (BERT) |
+
+> ℹ️ _Замените `your-username` на свой ник; описания и ссылки — заглушки, их легко поменять._
+
+---
+
+## 🙋‍♂️ Обо мне  
+
+<img src="avatar.png" width="150" align="left" style="margin-right:15px;"/>
+
+Я дата-сайентист, специализирующийся на медицинских задачах—компьютерное зрение, NLP клинических текстов и анализ биомедицинских данных. Люблю открытый код, reproducible research и кофе-driven хакатоны. Всегда открыт к сотрудничеству и интересным проектам.
+
+---
