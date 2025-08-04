@@ -26,8 +26,7 @@
 | [`med-cv-diagnosis`](https://github.com/your-username/med-cv-diagnosis) | Классификация рентген/КТ-снимков |
 | [`retinal-segmentation`](https://github.com/your-username/retinal-segmentation) | Сегментация сосудов глазного дна |
 | [`fhir-data-pipeline`](https://github.com/your-username/fhir-data-pipeline) | ETL-конвейер FHIR → Parquet |
-| [`clinical-notes-nlp`](https://github.com/your-username/clinical-notes-nlp) |
- Извлечение диагнозов из историй болезни (BERT) |
+| [`clinical-notes-nlp`](https://github.com/your-username/clinical-notes-nlp) | Извлечение диагнозов из историй болезни (BERT) |
 
 
 ---
