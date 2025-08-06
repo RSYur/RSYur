@@ -46,29 +46,6 @@
 <br clear="left"/>
 </div>
 
-## 📚 Профильные книги, которые я прочёл и изучил
-
-### 🧠 Машинное обучение и ИИ
-- *Deep Learning* — Ian Goodfellow, Yoshua Bengio, Aaron Courville
-- *Machine Learning Yearning* — Andrew Ng
-- *Pattern Recognition and Machine Learning* — Christopher Bishop
-
-### 🧬 Математика и статистика
-- *Линейная алгебра* — Гильберт Стрэнг
-- *Статистика. Полный курс* — Даниэль Наварро
-- *A First Course in Probability* — Sheldon Ross
-
-### 🧑‍🔬 Обработка изображений и CV
-- *Digital Image Processing* — Rafael C. Gonzalez
-- *Programming Computer Vision with Python* — Jan Erik Solem
-- *Medical Image Analysis* — R.M. Rangayyan
-
-### 📊 Data Science & инженерия данных
-- *Designing Data-Intensive Applications* — Martin Kleppmann
-- *Data Science from Scratch* — Joel Grus
-- *The Elements of Statistical Learning* — Hastie, Tibshirani, Friedman
-
-
 ## ⚙️🔩 Мой стек технологий:
 
 <div align="center">
@@ -76,7 +53,8 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+ 
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) 
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
@@ -100,28 +78,5 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 
 ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
-
-</div>
-
-## 🗃️ Флагманские репозитории
-
-<div align="center">
-  
-| Репозиторий | Описание |
-|-------------|--------------------|
-| [`med-cv-diagnosis`](https://github.com/your-username/med-cv-diagnosis) | Классификация рентген/КТ-снимков |
-| [`retinal-segmentation`](https://github.com/your-username/retinal-segmentation) | Сегментация сосудов глазного дна |
-| [`fhir-data-pipeline`](https://github.com/your-username/fhir-data-pipeline) | ETL-конвейер FHIR → Parquet |
-| [`clinical-notes-nlp`](https://github.com/your-username/clinical-notes-nlp) | Извлечение диагнозов из историй болезни (BERT) |
-
-</div>
-
-# 📊 Статистика GitHub:
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=RSYur&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=RSYur&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RSYur&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
