@@ -63,7 +63,8 @@
 **ML/DL:** PyTorch, TensorFlow, scikit-learn, MONAI, Keras, mlflow  
 **Data:** Pandas, NumPy, Matplotlib, Plotly, Power BI  
 **Базы данных:** PostgreSQL, MySQL, MongoDB, CrateDB  
-**DevOps & Tools:** Git, Docker, Poetry, DVC, VTK, 3D Slicer  
+**DevOps & Tools:**
+ Git, Docker, Poetry, DVC, VTK, 3D Slicer  
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) 
@@ -95,10 +96,6 @@
 ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
 
 ---
-
-## 📬 Контакты
-
-- ✉️ Email: **Deep-tip@yandex.ru**  
 
 <div align="center">
 
