@@ -9,7 +9,7 @@
 Специализация: *Machine Learning · Computer Vision · Medical Imaging · Python · PyTorch* 
 
 <div align="justify">
-&nbsp;&nbsp;&nbsp;&nbsp;Разрабатываю интеллектуальные системы для анализа медицинских изображений и биоинформатики, интегрирующие глубокое обучение, визуализацию и обработку медицинских данных.  
+Разрабатываю интеллектуальные системы для анализа медицинских изображений и биоинформатики, интегрирующие глубокое обучение, визуализацию и обработку медицинских данных.  
 Работаю в лаборатории математического моделирования при медицинском университете, веду научные проекты с клиниками и исследовательскими институтами.
 </div>
 
@@ -75,7 +75,8 @@
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) 
-![CrateDB](https://img.shields.io/badge/CrateDB-009DC7?style=for-the-badge&logo=CrateDB&logoColor=white) 
+![CrateDB](
+https://img.shields.io/badge/CrateDB-009DC7?style=for-the-badge&logo=CrateDB&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
