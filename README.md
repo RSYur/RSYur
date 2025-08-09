@@ -6,7 +6,7 @@
 <br>
 
 **Roman Yurovskikh** — ML Engineer & Researcher  
-Специализация: *Computer Vision · Medical Imaging · Mathematical Modeling*  
+Специализация: *Machine Learning · Computer Vision · Medical Imaging · Python · PyTorch · Mathematical Modeling* 
 
 <div align="justify">
 &nbsp;&nbsp;&nbsp;&nbsp;Разрабатываю интеллектуальные системы для анализа медицинских изображений и биоинформатики, интегрирующие глубокое обучение, визуализацию и обработку медицинских данных.  
